@@ -1,6 +1,11 @@
-<<<<<<< HEAD
-Every potato has a dream of becoming chips. Sure, why wouldn't they? Although potatoes themselves may be a little rough on the edges, chips look so clean and tastes good. However, there is one sturdy potato whose way to becoming potato chips was not simple and smooth as it has broken every single cutter it encountered! "How should I become a potato chip", he said. Legend says that there exists an indestructible potato cutter in the unknown areas of the world and no one has ever reached it before.
-=======
->>>>>>> 0b9047815ead2261b5c93a0f29c198cebf1bc416
+
+<<<<<<< HEAD Every potato has a dream of becoming chips. Sure, why wouldn't they? Although potatoes themselves may be a little rough on the edges, 
+chips look so clean and tastes good. However, there is one sturdy potato whose way to becoming potato chips was not simple and smooth as it has broken 
+every single cutter it encountered! "How should I become a potato chip", he said. Legend says that there exists an indestructible potato cutter in the 
+unknown areas of the world and no one has ever reached it before. So this rough potato went on a mission to the unknown in order to find the 
+indestructable cutter. The potato had know idea where to start in getting to the unknown.  Then one day, it had a dream.  A path was shown to get to 
+the unknown.  Now, all it had to do was take the path it had envisioned in the dream.
+
+
 
 
